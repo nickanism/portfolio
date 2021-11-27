@@ -17,7 +17,7 @@ const greeting = {
     "A Software Engineer having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Python / Django and some other cool libraries and frameworks."
   ,
   resumeLink:
-    "https://drive.google.com/file/d/1mvR9C2QiAEXUCybz89oJ9z-f25dCTpBO/view?usp=sharing", // Set to empty to hide the button
+    "./WooHyun_An_CV_11-24-2021.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -103,7 +103,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Wecode Advanced Intensive Coding Bootcamp",
+      schoolName: "Wecode",
       logo: require("./assets/images/wecode-logo-transparent.png"),
       subHeader: "Back End Engineering",
       duration: "March 2020 - July 2020",
