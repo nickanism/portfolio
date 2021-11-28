@@ -14,7 +14,7 @@ const greeting = {
   username: "Nick An",
   title: "Woo Hyun (Nick) An",
   subTitle: 
-    "A Software Engineer having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Python / Django and some other cool libraries and frameworks."
+    "A Software Engineer with experience building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Python / Django and some other cool libraries and frameworks."
   ,
   resumeLink:
     "./WooHyun_An_CV_11-24-2021.pdf", // Set to empty to hide the button
@@ -37,7 +37,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Who I am",
-  subTitle: "SOFTWARE ENGINEER WHO WANTS TO EXPLORE THE WORLD OF LOGIC AND BINARIES",
+  subTitle: "A SOFTWARE ENGINEER WHO WANTS TO EXPLORE THE WORLD OF LOGIC AND BINARIES",
   skills: [
     emoji(
       "⚡ Systematized Full stack business logic as needed"
@@ -103,7 +103,7 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Wecode",
+      schoolName: "Wecode Coding Bootcamp",
       logo: require("./assets/images/wecode-logo-transparent.png"),
       subHeader: "Back End Engineering",
       duration: "March 2020 - July 2020",
@@ -344,7 +344,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to keep in touch?",
+    "Want to discuss a project or just keep in touch?",
   number: "(+82) 10-5064-8783",
   email_address: "nickanism@gmail.com"
 };
