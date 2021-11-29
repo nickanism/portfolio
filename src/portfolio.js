@@ -17,7 +17,7 @@ const greeting = {
     "A Software Engineer with experience building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Python / Django and some other cool libraries and frameworks."
   ,
   resumeLink:
-    "./WooHyun_An_CV_11-24-2021.pdf", // Set to empty to hide the button
+    "./WooHyunAn-CV-11-29-2021.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
